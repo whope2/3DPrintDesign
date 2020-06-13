@@ -12,3 +12,8 @@ https://www.thingiverse.com/thing:2008780
 - Extend with Name texts
 - Embed with Name texts
 - STL files provided for sample names:  Max, Aiden
+
+3. Headset S hook
+
+- Simple design to hook your headset against  rail
+- STL file provided (headset_hook.stl)
