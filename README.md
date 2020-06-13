@@ -17,3 +17,4 @@ https://www.thingiverse.com/thing:2008780
 
 - Simple design to hook your headset against  rail
 - STL file provided (headset_hook.stl)
+- Additional designs (v2, v3: curve shape, longer legs)
