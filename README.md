@@ -1,5 +1,9 @@
 # 3DPrintDesign
 
+Google home mini hook design
+- Perfect fit in the hole on the bottom of Google home mini.
+- STL file provided (google_home_mini_hook_v2.stl)
+
 Headset S hook
 - Simple design to hook your headset against  rail
 - STL file provided (headset_hook.stl)
