@@ -1,7 +1,8 @@
 # 3DPrintDesign
 
 Bird case single wall design
-- STL file provided (Bird_cage_single_wall.stl)
+- STL file provided (Bird_cage_single_wall.stl and Bird_cage_single_wall_v2.stl)
+- Slight difference (1mm) in length between v1 and v2 versions
 
 Google home mini hook design
 - Perfect fit in the hole on the bottom of Google home mini.
