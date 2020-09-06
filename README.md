@@ -1,5 +1,8 @@
 # 3DPrintDesign
 
+Laptop camera cover design
+- STL file for HP ENVY (laptop_cam_cover.stl)
+
 Bird case single wall design
 - STL file provided (Bird_cage_single_wall.stl and Bird_cage_single_wall_v2.stl)
 - Slight difference (1mm) in length between v1 and v2 versions
