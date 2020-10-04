@@ -4,8 +4,8 @@ Laptop camera cover design
 - STL file for HP ENVY (laptop_cam_cover.stl)
 
 Bird case single wall design
-- STL file provided (Bird_cage_single_wall.stl and Bird_cage_single_wall_v2.stl)
-- Slight difference (1mm) in length between v1 and v2 versions
+- STL file provided (Bird_cage_single_wall/v2/v4/long.stl)
+- Difference in length and width among various versions
 
 Google home mini hook design
 - Perfect fit in the hole on the bottom of Google home mini.
